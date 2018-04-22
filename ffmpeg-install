@@ -10,8 +10,8 @@
 VERSION=1.2
 
 URL=https://www.johnvansickle.com/ffmpeg/
-URL_RELEASES=https://johnvansickle.com/ffmpeg/releases/
-URL_BUILDS=https://johnvansickle.com/ffmpeg/builds/
+URL_RELEASES=https://johnvansickle.com/ffmpeg/release-source/
+URL_BUILDS=https://johnvansickle.com/ffmpeg/release-source/
 TMP_DIR=/tmp
 PATH_INSTALL=/usr/bin/
 
